@@ -1,0 +1,32 @@
+{
+  "name": "micro-compose",
+  "version": "0.0.1",
+  "description": "Hight-order \"compose\" function",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "xo && ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimapaloskin/micro-compose.git"
+  },
+  "keywords": [
+    "compose"
+  ],
+  "author": "Dima Paloskin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimapaloskin/micro-compose/issues"
+  },
+  "homepage": "https://github.com/dimapaloskin/micro-compose#readme",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.1"
+  },
+  "xo": {
+    "space": 2
+  }
+}
