@@ -6,6 +6,14 @@
 
 `Compose` function from [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) extracted into separate npm package and a bit modified.
 
+### Install
+
+```sh
+npm install --save micro-compose
+# or
+yarn add micro-compose
+```
+
 ### Usage
 
 ```js
