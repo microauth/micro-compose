@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimapaloskin/micro-compose.git"
+    "url": "git+https://github.com/microauth/micro-compose.git"
   },
   "keywords": [
     "compose"
