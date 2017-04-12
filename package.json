@@ -9,6 +9,9 @@
   "scripts": {
     "test": "xo && ava -v"
   },
+  "engines": {
+    "node": ">=7.8.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dimapaloskin/micro-compose.git"
