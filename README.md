@@ -1,4 +1,6 @@
 # micro-compose
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/microauth/micro-compose.svg)](https://greenkeeper.io/)
 > Hight-order `compose` function
 
 [![Build Status](https://travis-ci.org/microauth/micro-compose.svg?branch=master)](https://travis-ci.org/microauth/micro-compose)
