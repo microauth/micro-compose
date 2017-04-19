@@ -1,6 +1,6 @@
 {
   "name": "micro-compose",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hight-order \"compose\" function",
   "main": "index.js",
   "files": [
