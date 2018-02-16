@@ -1,5 +1,5 @@
 import test from 'ava';
-import compose from './../';
+import compose from './..';
 
 const first = fn => (arg1, arg2) => {
   return fn(arg1, arg2, 'third');
