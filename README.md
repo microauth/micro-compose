@@ -1,8 +1,10 @@
 # micro-compose
-> Hight-order `compose` function
+
+> Higher-order `compose` function
 
 [![Build Status](https://travis-ci.org/microauth/micro-compose.svg?branch=master)](https://travis-ci.org/microauth/micro-compose)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+[![Greenkeeper badge](https://badges.greenkeeper.io/microauth/micro-compose.svg)](https://greenkeeper.io/)
 
 `Compose` function from [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) extracted into separate npm package and a bit modified.
 
